@@ -4,27 +4,27 @@
 
 1. Verify your email 
  
-![Screenshot](01.png)
+![Screenshot](https://raw.githubusercontent.com/fpontejos/dash-test/main/imgs/01.png)
 
 1. Create a new web service
 
-![Screenshot](02.png)
+![Screenshot](https://raw.githubusercontent.com/fpontejos/dash-test/main/imgs/02.png)
 
 1. Click on the GitHub link to connect your GitHub account 
 
-![Screenshot](03.png)
+![Screenshot](https://raw.githubusercontent.com/fpontejos/dash-test/main/imgs/03.png)
 
 1. Allow all the things
 
-![Screenshot](04.png)
+![Screenshot](https://raw.githubusercontent.com/fpontejos/dash-test/main/imgs/04.png)
 
 1. Choose the repo you want it to see (or allow all)
 
-![Screenshot](05.png)
+![Screenshot](https://raw.githubusercontent.com/fpontejos/dash-test/main/imgs/05.png)
 
 1. Select the repo 
 
-![Screenshot](07.png)
+![Screenshot](https://raw.githubusercontent.com/fpontejos/dash-test/main/imgs/07.png)
 
 1. Configure some settings. 
 
@@ -42,7 +42,7 @@ gunicorn app:server
 
 **Click Advanced**
 
-![Screenshot](08.png)
+![Screenshot](https://raw.githubusercontent.com/fpontejos/dash-test/main/imgs/08.png)
 
 
 Add Environment Variables: Python Version (whichever one you are using that works)
