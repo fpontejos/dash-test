@@ -22,6 +22,7 @@ dropdown_cc = dcc.Dropdown(
        value='Foo'
    )
 
+c = pd.read_csv('data/test.csv')
 
 ################ APP ################
 
@@ -35,6 +36,7 @@ app.layout = html.Div([
 
     html.Div([
         html.P("Hello, this is a test Dash app."),
+        html.Div(' '.join(c['Country'])),
         html.Br(),
         dropdown_cc
 
